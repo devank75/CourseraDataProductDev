@@ -1,0 +1,55 @@
+---
+title       : Hi Low Stock Chart
+subtitle    : This apps plots Hi Low trend for a chosen stock
+author      : devank
+job         : Cousera Dev data product project
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Problem
+
+Produce Graphs for Stock using Hi-lOw visualisation. 
+
+---
+
+## Proposed Solution
+
+Give the user the option to 
+1. Pick a Stock
+2. Pick the period
+3. change the distribution form
+4. adjust for inflation
+
+---
+
+## Issues facing
+Unfortunately one of the stocks related package I used is not supported by shinnyapps server
+Hence the actual chart is not loading
+
+
+---
+
+## Submitted Solution
+
+Regardless,
+Solutions is loacated at https://devank.shinyapps.io/App-1
+
+Actual code is loaded at https://github.com/devank75/CourseraDataProductDev 
+
+Screenshot of working version is saved dropbox https://www.dropbox.com/sh/7kbgmbc0gntxw5b/AADwLVmSZR95Amx9wjzKjoMPa?dl=0
+
+
+---
+
+## Thanks and feedback location
+
+I hope this helps you with your share investing decisions.
+
+Please direct feedback to devank@hotmail.com
+
+Thanks you for your time and feedback.
